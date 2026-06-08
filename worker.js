@@ -136,7 +136,7 @@ function buildSVG({ name, text, tag, avatar, handle, isUnknown }) {
   <!-- 해시태그 -->
   <text x="80" y="${112 + textBlockH + 22}"
         font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif"
-        font-size="13" fill="#1d9bf0">#${esc(tag)}</text>
+        font-size="13" fill="#1d9bf0">${esc(tag)}</text>
 
   <!-- 하단 연도 -->
   <text x="${W - 20}" y="${cardH - 14}"
