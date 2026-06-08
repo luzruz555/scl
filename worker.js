@@ -6,7 +6,7 @@
 // ── GitHub raw 이미지 베이스 URL ──────────────────────────────
 //  ※ 본인 저장소 경로로 수정하세요
 //  파일 구조 예시: /img/S1.png ~ S12.png
-const GITHUB_IMG_BASE = "https://raw.githubusercontent.com/luzruz555/scl/img"
+const GITHUB_IMG_BASE = "https://raw.githubusercontent.com/luzruz555/scl/main/img"
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 //  ✏️  캐릭터 설정 — 여기만 수정하면 됩니다
