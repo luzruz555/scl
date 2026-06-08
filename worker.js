@@ -17,18 +17,18 @@ const GITHUB_IMG_BASE = "https://raw.githubusercontent.com/luzruz555/scl/main/im
 //  프로필 이미지는 자동으로 GITHUB_IMG_BASE/id.png 로 연결됩니다
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 const CHARACTERS = {
-  "박진수": { id: "S1",  handle: "@park_jinsoo"    },
-  "박세진": { id: "S2",  handle: "@sejin_coach"     },
-  "이지원": { id: "S3",  handle: "@jiwon_phys"      },
-  "이소은": { id: "S4",  handle: "@lse_0000"        },
-  "김세훈": { id: "S5",  handle: "@sehun_baseball"  },
-  "오하늘": { id: "S6",  handle: "@haneul_sky"      },
-  "최도윤": { id: "S7",  handle: "@cdoyun"          },
-  "이유림": { id: "S8",  handle: "@yurim_log"       },
-  "윤서아": { id: "S9",  handle: "@seo_a_note"      },
-  "한지후": { id: "S10", handle: "@jihu_study"      },
-  "백가은": { id: "S11", handle: "@gaeun_b"         },
-  "정유나": { id: "S12", handle: "@yuna_j"          },
+  "박진수": { id: "S1",  handle: "park_jinsoo"    },
+  "박세진": { id: "S2",  handle: "sejin_coach"     },
+  "이지원": { id: "S3",  handle: "jiwon_t"      },
+  "이소은": { id: "S4",  handle: "lse_0000"        },
+  "김세훈": { id: "S5",  handle: "sh_baseball"  },
+  "오하늘": { id: "S6",  handle: "sky_5"      },
+  "최도윤": { id: "S7",  handle: "cdoyun"          },
+  "이유림": { id: "S8",  handle: "yurim00"       },
+  "윤서아": { id: "S9",  handle: "seo_a"      },
+  "한지후": { id: "S10", handle: "jh0000"      },
+  "백가은": { id: "S11", handle: "gaeun_b"         },
+  "정유나": { id: "S12", handle: "YUNA_23"          },
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
