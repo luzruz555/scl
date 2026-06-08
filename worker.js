@@ -28,7 +28,7 @@ const CHARACTERS = {
   "윤서아": { id: "S9",  handle: "seo_a"      },
   "한지후": { id: "S10", handle: "jh0000"      },
   "백가은": { id: "S11", handle: "gaeun_b"         },
-  "정유나": { id: "S12", handle: "YUNA_23"          },
+  "정유나": { id: "S12", handle: "yuna_23"          },
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
