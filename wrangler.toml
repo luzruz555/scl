@@ -1,4 +1,4 @@
 # wrangler.toml
-name = "sns-card"          
+name = "scl"          
 main = "worker.js"         
 compatibility_date = "2025-01-01"
