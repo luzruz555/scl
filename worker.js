@@ -141,7 +141,7 @@ function buildSVG({ name, text, tag, avatar, handle, isUnknown }) {
   <!-- 하단 연도 -->
   <text x="${W - 20}" y="${cardH - 14}"
         font-family="'SF Mono','Consolas',monospace"
-        font-size="11" fill="#536471" text-anchor="end">✦ 2026</text>
+        font-size="11" fill="#536471" text-anchor="end">✦ 2025</text>
 </svg>`
 }
 
